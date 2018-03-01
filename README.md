@@ -21,8 +21,6 @@ Java implementation of algorithms from [Russell](http://www.cs.berkeley.edu/~rus
 
 ### Index of Implemented Algorithms
 
-(---) indicates algorithms yet to be implemented.
-
 |Fig|Page|Name (in book)|Code|
 | -------- |:--------:| :-----| :----- |
 |2|34|Environment|[Environment](/aima-core/src/main/java/aima/core/agent/Environment.java)|
@@ -122,3 +120,6 @@ Java implementation of algorithms from [Russell](http://www.cs.berkeley.edu/~rus
 |22.1|871|HITS|[HITS](/aima-core/src/main/java/aima/core/nlp/ranking/HITS.java)|
 |23.5|894|CYK-Parse|[CYK](/aima-core/src/main/java/aima/core/nlp/parsing/CYK.java)|
 |25.9|982|Monte-Carlo-Localization|[MonteCarloLocalization](/aima-core/src/main/java/aima/core/robotics/MonteCarloLocalization.java)|
+
+
+(---) indicates algorithms yet to be implemented.
