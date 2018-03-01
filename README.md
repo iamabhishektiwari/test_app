@@ -122,4 +122,4 @@ Java implementation of algorithms from [Russell](http://www.cs.berkeley.edu/~rus
 |25.9|982|Monte-Carlo-Localization|[MonteCarloLocalization](/aima-core/src/main/java/aima/core/robotics/MonteCarloLocalization.java)|
 
 
-(---) indicates algorithms yet to be implemented.
+###  "---" indicates algorithms yet to be implemented.
